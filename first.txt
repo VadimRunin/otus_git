@@ -2,4 +2,4 @@ string 1
 string 2
 stкing 3
 string 4
-ыекштп5
+string from remote repo
