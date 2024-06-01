@@ -4,3 +4,4 @@ stкing 3
 string 4
 string from remote repo
 string2 from remote repo
+string from local repo
